@@ -5,6 +5,9 @@
 ## Project Overview
 This repository contains the implementation of a face shape classification system that categorizes faces into different shape classes (Heart, Oval, Round, Square, and Oblong). The project explores the impact of preprocessing techniques on classification accuracy, specifically comparing full-image classification versus cropped-face classification.
 
+## Dataset link
+https://www.kaggle.com/datasets/niten19/face-shape-dataset
+
 ## Key Features
 - Face shape classification using deep learning models
 - Comparison of two preprocessing approaches:
